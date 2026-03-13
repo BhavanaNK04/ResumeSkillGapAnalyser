@@ -1,6 +1,3 @@
-Here is a **clean and professional `README.md` content** you can directly paste into your GitHub repository for the **Resume Skill Gap Analyzer** project. It explains the project clearly so recruiters and interviewers can understand it quickly.
-
-
 # Resume Skill Gap Analyzer
 
 ## Overview
@@ -96,4 +93,5 @@ The main goal of this project is to analyze a resume and compare it with a job d
 The **Resume Skill Gap Analyzer** is a practical application of **Natural Language Processing and Machine Learning** that helps candidates understand how well their resumes match job requirements.
 
 It provides insights into missing skills and helps users improve their profiles for better career opportunities.
+
 
